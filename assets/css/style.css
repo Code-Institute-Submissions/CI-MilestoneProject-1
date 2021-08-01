@@ -12,3 +12,10 @@
     --white: #ffff;
 }
 
+/* Reset font-size for easier rem unit calculation */
+body {
+    font-size: 10px;
+    background-color: var(--navy);
+    color: var(--white);
+}
+

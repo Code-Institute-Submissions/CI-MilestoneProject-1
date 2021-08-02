@@ -201,6 +201,10 @@ footer h3 {
 }
 
 @media only screen and (min-width: 1024px) {
+
+    #hero {
+        height: 600px;
+    }
     #content {
         justify-content: space-around;
         height: 600px;

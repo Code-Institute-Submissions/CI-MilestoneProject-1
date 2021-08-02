@@ -152,3 +152,37 @@ body {
     font-family: Lato, sans-serif;
     font-size: 1rem;
 }
+
+footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--grey);
+    border: 1px solid var(--green);
+    padding: 1rem 0;
+    text-align: center;
+}
+
+footer h3 {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.media-links li {
+    display: inline-block;
+    list-style: none;
+}
+
+.media-links a {
+    text-decoration: none;
+    color: var(--green);
+    font-size: 1rem;
+    padding: 0 1rem;
+    display: block;
+}
+
+.media-links a:hover {
+    color: var(--white);
+}

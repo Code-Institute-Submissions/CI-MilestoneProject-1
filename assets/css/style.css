@@ -189,7 +189,6 @@ footer h3 {
         width: 100%;
         display: flex;
         flex-wrap: wrap;
-        justify-content: space-between;
     }
 
     .first-item {
@@ -198,5 +197,32 @@ footer h3 {
 
     .second-item, .third-item {
         width: 50%;
+    }
+}
+
+@media only screen and (min-width: 1024px) {
+    #content {
+        justify-content: space-around;
+        height: 600px;
+        align-items: center;
+    }
+
+    .content-item img {
+       height: 300px;
+    }
+
+
+    .first-item, .second-item, .third-item {
+        width: 33%;
+    }
+
+    .content-item h2 {
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .content-item p {
+        font-family: Lato, sans-serif;
+        font-size: 1.3rem;
     }
 }

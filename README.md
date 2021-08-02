@@ -28,10 +28,19 @@ Users of the website will be able to find all the information about Code-Nect by
 
 <!--FEATURES-->
 
+<h2 align="center">Features</h2>
 
+---
 
+- ### Navigation Bar
 
-<!--TYPOGRAPHY>
+  - Navigation is featured on all 4 pages of the Code-Nect site. The navbar is built mobile first making it fully responsive by displaying a hamburger icon on small screen sizes and full navigation links on desktop.
+
+  - The Code-Nect logo is displayed to the left, inside of the navigation bar while links to other pages such as Home, About, Events and Sign Up which are displayed to the right.
+
+  - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
+
+<!--TYPOGRAPHY-->
 
 
 

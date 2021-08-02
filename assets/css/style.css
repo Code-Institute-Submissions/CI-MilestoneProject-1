@@ -75,6 +75,7 @@ body {
     display: block;
 }
 
+/* RESPONSIVE STYLES */
 @media only screen and (min-width: 560px) {
     #navbar {
         display: flex;
@@ -96,6 +97,7 @@ body {
     }
 }
 
+/* HERO STYLES */
 #hero {
     width: 100%;
     height: 500px;
@@ -107,7 +109,9 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 0 20px;
+    padding: 0 2rem;
+    margin-bottom: 2rem;
+    
 }
 
 #hero h1 {
@@ -118,4 +122,32 @@ body {
 #hero p {
     font-size: 1.5rem;
     font-family: Lato, sans-serif;
+}
+
+#content {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.content-item {
+    width: 100%;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.content-item img {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 0.5rem;
+}
+
+.content-item h3 {
+    font-size: 1.5rem;
+}
+
+.content-item p {
+    font-family: Lato, sans-serif;
+    font-size: 1rem;
 }

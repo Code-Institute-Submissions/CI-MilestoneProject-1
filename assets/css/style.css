@@ -245,6 +245,11 @@ footer h3 {
 }
 
 @media only screen and (min-width: 1440px) {
+
+    #content {
+        height: 700px;
+    }
+
     .content-item img {
         height: 300px;
     }

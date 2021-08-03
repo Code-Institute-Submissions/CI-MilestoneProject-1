@@ -40,6 +40,16 @@ Users of the website will be able to find all the information about Code-Nect by
 
   - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
 
+- ### Hero 
+
+  - The hero displays a welcome message for new users visiting the site. The header continues using the same font color that is used within the navbar above.
+
+  - The hero uses a background image with a black transparent layer on top in order for the white text to be displayed without any contrast issues.
+
+  - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
+
+  ![Image of Meeting](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)
+
 <!--TYPOGRAPHY-->
 
 

@@ -205,6 +205,16 @@ footer h3 {
     #hero {
         height: 600px;
     }
+
+    #hero h1 {
+        font-size: 4rem;
+        margin-bottom: 1rem;
+    }
+
+    #hero p {
+        font-size: 2rem;
+    }
+
     #content {
         justify-content: space-around;
         height: 600px;

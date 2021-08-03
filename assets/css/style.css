@@ -36,9 +36,8 @@ body {
     font-size: 1.5rem;
 }
 
-/* Hides checkbox */
 #nav_checkbox {
-    display: none
+    display: none /* Hides checkbox */
 }
 
 .nav-menu {
@@ -49,7 +48,7 @@ body {
 
 .nav-menu li {
     list-style: none;
-    display: none;
+    display: none; /* Used to hide menu when checkbox is not checked */
     padding: 5px 0;
     font-size: 1.2rem;
 }
@@ -69,10 +68,8 @@ body {
     border-bottom: 1px solid var(--green);
 }
 
-
-
 #nav_checkbox:checked~ul.nav-menu li {
-    display: block;
+    display: block; /* Makes list items appear when checkbox is checked*/
 }
 
 
@@ -103,6 +100,8 @@ body {
     font-family: Lato, sans-serif;
 }
 
+
+/* CONTENT STYLES */
 #content {
     width: 80%;
     margin: 0 auto;
@@ -130,6 +129,7 @@ body {
     font-size: 1rem;
 }
 
+/* FOOTER STYLES */
 footer {
     width: 100%;
     display: flex;
@@ -163,6 +163,7 @@ footer h3 {
 .media-links a:hover {
     color: var(--white);
 }
+
 
 /* RESPONSIVE STYLES */
 @media only screen and (min-width: 769px) {
@@ -200,8 +201,9 @@ footer h3 {
     }
 }
 
-@media only screen and (min-width: 1024px) {
 
+/* RESPONSIVE STYLES */
+@media only screen and (min-width: 1024px) {
     #hero {
         height: 600px;
     }
@@ -224,7 +226,6 @@ footer h3 {
     .content-item img {
        height: 300px;
     }
-
 
     .first-item, .second-item, .third-item {
         width: 33%;

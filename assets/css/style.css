@@ -167,6 +167,22 @@ footer h3 {
     color: var(--white);
 }
 
+/* ABOUT PAGE STYLES */
+
+#about {
+    width: 80%;
+    margin: 0 auto;
+}
+#about h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#about p {
+    font-size: 1.5rem;
+    font-family: Lato, sans-serif;
+    margin-bottom: 1rem;
+}
 
 /* RESPONSIVE STYLES */
 @media only screen and (min-width: 768px) {
@@ -204,7 +220,6 @@ footer h3 {
         width: 50%;
     }
 }
-
 
 /* RESPONSIVE STYLES */
 @media only screen and (min-width: 1024px) {

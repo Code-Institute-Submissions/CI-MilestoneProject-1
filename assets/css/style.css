@@ -201,13 +201,24 @@ footer h3 {
     flex-direction: column;
     width: 100%;
 }
+
+.staff h3 {
+    font-size: 2rem;
+}
+
 .staff-member {
     width: 100%;
+    margin: 0 10px;
+    margin-bottom: 2rem;
 }
 
 .staff-member img {
     width: 100%;
     max-width: 500px;
+}
+
+.staff-member span {
+    font-size: 1rem;
 }
 
 /* Fixes footer positioning  */

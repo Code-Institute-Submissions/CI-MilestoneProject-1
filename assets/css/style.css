@@ -196,6 +196,20 @@ footer h3 {
     margin-bottom: 1rem;
 }
 
+.staff {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.staff-member {
+    width: 100%;
+}
+
+.staff-member img {
+    width: 100%;
+    max-width: 500px;
+}
+
 /* Fixes footer positioning  */
 .active {
     min-height: 100vh;
@@ -239,6 +253,14 @@ footer h3 {
     .second-item,
     .third-item {
         width: 50%;
+    }
+
+    .staff {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .staff-member {
+        width: 33%;
     }
 }
 

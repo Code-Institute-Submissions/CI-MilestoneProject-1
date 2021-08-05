@@ -177,7 +177,7 @@ footer h3 {
 
 #about h1 {
     font-size: 3rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 #about h2 {
@@ -192,7 +192,7 @@ footer h3 {
 }
 
 .location-image {
-    width: 100%;
+    max-width: 100%;
     margin-bottom: 1rem;
 }
 
@@ -241,11 +241,6 @@ footer h3 {
     }
 }
 
-.active {
-    position: absolute;
-    bottom: 0;
-}
-
 /* RESPONSIVE STYLES */
 @media only screen and (min-width: 1024px) {
 
@@ -282,8 +277,12 @@ footer h3 {
         width: 33%;
     }
 
-    .location-image {
-        width: 50%;
+    #about h1 {
+        font-size: 4rem;
+    }
+
+    #about h2 {
+        font-size: 1.8rem;
     }
 }
 
@@ -305,5 +304,9 @@ footer h3 {
     .content-item p {
         font-family: Lato, sans-serif;
         font-size: 1.3rem;
+    }
+
+    #about p {
+        font-size: 1.4rem ;
     }
 }

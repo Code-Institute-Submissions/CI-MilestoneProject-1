@@ -172,6 +172,7 @@ footer h3 {
     width: 80%;
     margin: 0 auto;
     text-align: center;
+    flex-grow: 1;
 }
 
 #about h1 {
@@ -196,9 +197,12 @@ footer h3 {
 }
 
 .active {
-    position: absolute;
-    bottom: 0;
-}
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+  }
 
 /* RESPONSIVE STYLES */
 @media only screen and (min-width: 768px) {
@@ -237,6 +241,11 @@ footer h3 {
     }
 }
 
+.active {
+    position: absolute;
+    bottom: 0;
+}
+
 /* RESPONSIVE STYLES */
 @media only screen and (min-width: 1024px) {
 
@@ -273,6 +282,9 @@ footer h3 {
         width: 33%;
     }
 
+    .location-image {
+        width: 50%;
+    }
 }
 
 @media only screen and (min-width: 1440px) {

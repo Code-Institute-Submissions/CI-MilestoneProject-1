@@ -222,6 +222,25 @@ footer h3 {
     font-size: 1rem;
 }
 
+/* EVENTS PAGE STYLING */
+#events {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.meetup-heading {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url('../images/event\ copy.jpeg');
+    width: 100%;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 /* Fixes footer positioning  */
 .active {
     min-height: 100vh;

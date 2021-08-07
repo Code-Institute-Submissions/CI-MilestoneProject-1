@@ -240,7 +240,8 @@ footer h3 {
 }
 
 .event-heading p {
-    font-size: 1.5rem
+    font-size: 1.5rem;
+    font-family: Lato, sans-serif;
 }
 
 .event {
@@ -280,6 +281,7 @@ footer h3 {
 
 .event-banner span {
     font-size: 1rem;
+    font-family: Lato, sans-serif;
 }
 
 .event-info {
@@ -299,6 +301,7 @@ footer h3 {
 .check {
     display: flex;
     justify-content: space-evenly;
+    font-family: Lato, sans-serif;
 }
 
 .test {

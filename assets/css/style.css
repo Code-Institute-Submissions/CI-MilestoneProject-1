@@ -288,8 +288,8 @@ footer h3 {
 }
 
 .event-info {
-    color: black;
-    background-color: white;
+    color: var(--black);
+    background-color: var(--white);
     display: flex;
     flex-direction: column;
     padding: 1rem 0;

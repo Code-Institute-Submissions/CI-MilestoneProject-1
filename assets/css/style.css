@@ -222,6 +222,82 @@ footer h3 {
     font-size: 1rem;
 }
 
+/* EVENTS STYLING */
+#events {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.event-heading {
+    text-align: center;
+    margin-bottom: 4rem;
+}
+
+.event-heading h1 {
+    font-size: 3rem;
+    line-height: 4rem;
+    margin-bottom: 1rem;
+}
+
+.event-heading p {
+    font-size: 1.5rem
+}
+
+.event {
+    width: 100%;
+    position: relative;
+    margin-bottom: 3REM;
+}
+
+.event img {
+    width: 100%;
+    max-width: 400px;
+}
+
+.event-banner {
+    position: absolute;
+    left: 35%;
+    top: 20%;
+    text-align: center;
+}
+
+.event-banner h2 {
+    font-size: 2rem;
+}
+
+.event-banner span {
+    font-size: 1rem;
+}
+
+.event-info {
+    color: black;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.event-info h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.check {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.test {
+    width: 33%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.test i, span {
+    font-size: 1rem;
+}
+
 /* Fixes footer positioning  */
 .active {
     min-height: 100vh;

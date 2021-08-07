@@ -256,9 +256,12 @@ footer h3 {
 
 .event-banner {
     position: absolute;
-    left: 35%;
-    top: 20%;
     text-align: center;
+}
+
+.meetup {
+    top: 20%;
+    left: 40%;
 }
 
 .event-banner h2 {

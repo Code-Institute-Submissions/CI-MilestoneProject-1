@@ -247,7 +247,7 @@ footer h3 {
 .event {
     width: 100%;
     position: relative;
-    margin-bottom: 3REM;
+    margin-bottom: 3rem;
 }
 
 .event img {
@@ -298,20 +298,20 @@ footer h3 {
     margin-bottom: 1rem;
 }
 
-.check {
+.info-container {
     display: flex;
     justify-content: space-evenly;
     font-family: Lato, sans-serif;
 }
 
-.test {
+.info-item {
     width: 33%;
     display: flex;
     flex-direction: column;
     text-align: center;
 }
 
-.test i, span {
+.info-item i, span {
     font-size: 1rem;
 }
 

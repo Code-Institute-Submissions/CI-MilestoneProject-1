@@ -261,18 +261,21 @@ footer h3 {
 }
 
 .meetup {
-    top: 20%;
-    left: 40%;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .hackathon {
-    top: 20%;
-    left: 40%;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .coming-soon {
-    top: 20%;
-    left: 25%;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .event-banner h2 {

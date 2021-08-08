@@ -252,7 +252,6 @@ footer h3 {
 
 .event img {
     width: 100%;
-    max-width: 400px;
 }
 
 .event-banner {
@@ -417,6 +416,45 @@ footer h3 {
 
     #about h2 {
         font-size: 1.8rem;
+    }
+
+    #events {
+        width: 100%;
+        padding: 0 1rem;
+    }
+
+    .event {
+        display: flex;
+        
+    }
+
+    .event img {
+        width: 30%;
+    }
+
+    .event-info {
+        width: 70%;
+    }
+
+    .event-info {
+        justify-content: center;
+    }
+
+    .info-item i, span {
+        font-size: 1.5rem;
+    }
+
+    .info-item i {
+        margin-bottom: 1rem;
+    }
+
+    .event-info h3 {
+        font-size: 2rem;
+    }
+
+    .meetup, .hackathon, .coming-soon {
+        left: 15%;
+        top: 50%;
     }
 }
 

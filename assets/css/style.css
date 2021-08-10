@@ -525,6 +525,9 @@ footer h3 {
 
     #contact {
         width: 100%;
+        margin: 0 auto;
+        margin-bottom: 2rem;
+        flex-grow: 1;
     }
 
     #contact h1 {
@@ -576,11 +579,5 @@ footer h3 {
 
     #about p {
         font-size: 1.4rem ;
-    }
-
-    #contact {
-    width: 80%;
-    margin: 0 auto;
-    flex-grow: 1;
     }
 }

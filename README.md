@@ -32,6 +32,7 @@ Users of the website will be able to find all the information about Code-Nect by
 [![Responsive](readme-files/responsive.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 View the live project [here](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 ---
 
 ## User Experience (UX)
@@ -49,6 +50,12 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - As a user, I wan't to be able to contact Code-Nect directly by finding their social media links or by sign-up form.
 
   - As a user, I wan't to know if the organization host any in person events.
+
+
+<!-- WIREFRAMES -->
+
+
+<!-- DESIGN -->
 
 
 <!--FEATURES-->
@@ -85,23 +92,18 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     - Portfolio Review: Code-Nect offers developers a chance to receive feedback on their portfolio site and personal projects, this allows developers to grow and learn with the feedback that they receive.
     - Socialize: Code-Nect host hackathons and meetups to give developers around Ireland an opportunity to socialize and get to know everyone personally.
 
-<!--TYPOGRAPHY-->
 
+<!-- TECHNOLOGIES -->
+
+
+
+<!-- DEPLOYMENT -->
 
 
 <!--TESTING-->
 
 
-
-
 <!--BUGS-->
-
-
-
-
-<!--DEPLOYMENT-->
-
-
 
 
 <!--CREDITS-->

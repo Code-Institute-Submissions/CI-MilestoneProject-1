@@ -380,6 +380,17 @@ footer h3 {
     font-size: 1.5rem;
 }
 
+/* FORM SUBMISSION STLYES */
+#form-response {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    flex-grow: 1;
+}
+
 /* Fixes footer positioning  */
 .active {
     min-height: 100vh;

@@ -58,6 +58,9 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 <!-- DESIGN -->
 
 
+<!-- TYPOGRAPHY -->
+
+
 <!--FEATURES-->
 
 ## Features

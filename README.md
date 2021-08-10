@@ -96,6 +96,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     - Socialize: Code-Nect host hackathons and meetups to give developers around Ireland an opportunity to socialize and get to know everyone personally.
   - Illustrations are used to represent each service, using the same color palette that is being used throughout the site.
 
+  [![Hero](readme-files/services.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 - ### Footer
   - The footer provides the user with links to Facebook, Github and Instagram.
   - The footer has a green border to add to the tech theme of the site.

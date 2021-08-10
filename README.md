@@ -7,7 +7,7 @@ Code-Nect host meetups and hackathons that allow developers to not only socialis
 
 Users of the website will be able to find all the information about Code-Nect by visiting the About, Events, and Sign up pages provided on the site.
 
-[![Reaponsive](readme-files/Responsive.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+[![Responsive](readme-files/responsive.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 View the live project [here](https://jack112-create.github.io/CI-MilestoneProject-1/)
 ---
@@ -43,7 +43,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
 
-  [![Navbar](readme-files/Navbar.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  [![Navbar](readme-files/navbar.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### Hero 
 
@@ -53,7 +53,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
 
-  [![Hero](readme-files/Hero.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  [![Hero](readme-files/hero.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### Services 
 

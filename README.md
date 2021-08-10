@@ -48,7 +48,6 @@ Users of the website will be able to find all the information about Code-Nect by
 
   - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
 
-  ![Image of Meeting](https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1350&q=80)
 
 <!--TYPOGRAPHY-->
 

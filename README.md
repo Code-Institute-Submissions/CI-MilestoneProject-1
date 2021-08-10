@@ -9,6 +9,7 @@ Users of the website will be able to find all the information about Code-Nect by
 
 [![Reaponsive](readme-files/Responsive.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+View the live project [here](https://jack112-create.github.io/CI-MilestoneProject-1/)
 ---
 
 ## User Experience (UX)

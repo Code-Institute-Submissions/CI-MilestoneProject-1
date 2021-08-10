@@ -488,7 +488,6 @@ footer h3 {
 
     .event {
         display: flex;
-        
     }
 
     .event img {
@@ -522,6 +521,27 @@ footer h3 {
     
     .event-heading h1 {
         font-size: 4rem;
+    }
+
+    #contact {
+        width: 100%;
+    }
+
+    #form {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .area, .phone, .email {
+        margin-bottom: 2rem;
+    }
+
+    .contact-details i {
+        font-size: 1.5rem;
+    }
+
+    .contact-details h2 {
+        font-size: 2rem;
     }
 }
 

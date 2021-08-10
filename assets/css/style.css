@@ -317,6 +317,56 @@ footer h3 {
     font-size: 1rem;
 }
 
+#contact {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#contact h1, p {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#contact h1 {
+    font-size: 3rem;
+    border-bottom: 1px solid var(--white);
+}
+
+#contact p {
+    font-size: 1.5rem;
+    font-family: Lato, sans-serif;
+}
+
+#form label {
+    display: block;
+    text-align: left;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+#form input, textarea {
+    width: 100%;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#submit {
+    color: var(--white);
+    background: none;
+    border: 3px solid var(--white);
+    transition: 0.3s;
+}
+
+#submit:hover {
+    cursor: pointer;
+    background: var(--green);    
+}
+
+
+
+
+
 /* Fixes footer positioning  */
 .active {
     min-height: 100vh;

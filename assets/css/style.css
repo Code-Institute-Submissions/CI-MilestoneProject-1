@@ -577,4 +577,9 @@ footer h3 {
     #about p {
         font-size: 1.4rem ;
     }
+
+    .fixed-bottom {
+        position: fixed;
+        bottom: 0;
+    }
 }

@@ -40,6 +40,8 @@ Users of the website will be able to find all the information about Code-Nect by
 
   - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
 
+  [![Navbar](readme-files/Navbar.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 - ### Hero 
 
   - The hero displays a welcome message for new users visiting the site. The header continues using the same font color that is used within the navbar above.
@@ -48,7 +50,7 @@ Users of the website will be able to find all the information about Code-Nect by
 
   - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
 
-
+  [![Hero](readme-files/Hero.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 <!--TYPOGRAPHY-->
 
 

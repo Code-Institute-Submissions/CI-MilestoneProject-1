@@ -7,6 +7,8 @@ Code-Nect host meetups and hackathons that allow developers to not only socialis
 
 Users of the website will be able to find all the information about Code-Nect by visiting the About, Events, and Sign up pages provided on the site.
 
+[![Reaponsive](readme-files/Responsive.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 ---
 
 ## User Experience (UX)

@@ -1,3 +1,25 @@
+## Contents
+* [Introduction](#Code-Nect)
+* [UX](#UX)
+    * [User Stories](#User-Stories)
+        * [User Goals](#User-Goals)
+        * [Site Owner Goals](#Site-Owner-Goals)
+* [Wireframes](#Wireframes)
+* [Design](#Design)
+* [Features](#Features)
+    * [Navbar](#Navbar)
+    * [Hero](#Hero)
+    * [Services](#Services)
+* [Technologies Used](#Technologies-Used)
+    * [Languages Used](#Languages-Used)
+* [Deployment](#Deployment)
+    * [Github Pages](#Github-Pages)
+* [Testing](#Testing)
+* [Bugs](#Bugs)
+* [Credits](#Credits)
+    * [Media](#Media)
+---
+
 <!--INTRODUCTION-->
 
 # Code-Nect
@@ -62,6 +84,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     - Collaborate: By getting involved with Code-Nect, it allows for developers to collaborate with one another to share ideas and build projects. 
     - Portfolio Review: Code-Nect offers developers a chance to receive feedback on their portfolio site and personal projects, this allows developers to grow and learn with the feedback that they receive.
     - Socialize: Code-Nect host hackathons and meetups to give developers around Ireland an opportunity to socialize and get to know everyone personally.
+
 <!--TYPOGRAPHY-->
 
 

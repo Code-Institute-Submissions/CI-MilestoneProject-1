@@ -317,6 +317,7 @@ footer h3 {
     font-size: 1rem;
 }
 
+/* CONTACT STYLES */
 #contact {
     width: 80%;
     margin: 0 auto;
@@ -362,9 +363,6 @@ footer h3 {
     cursor: pointer;
     background: var(--green);    
 }
-
-
-
 
 
 /* Fixes footer positioning  */

@@ -527,6 +527,15 @@ footer h3 {
         width: 100%;
     }
 
+    #contact h1 {
+        font-size: 4rem;
+    }
+
+    #contact p {
+        font-size: 2rem;
+        margin-bottom: 3rem;
+    }
+
     #form {
         display: flex;
         justify-content: space-evenly;

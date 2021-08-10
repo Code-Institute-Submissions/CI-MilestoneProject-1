@@ -578,8 +578,9 @@ footer h3 {
         font-size: 1.4rem ;
     }
 
-    .fixed-bottom {
-        position: fixed;
-        bottom: 0;
+    #contact {
+    width: 80%;
+    margin: 0 auto;
+    flex-grow: 1;
     }
 }

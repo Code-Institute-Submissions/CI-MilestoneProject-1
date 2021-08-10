@@ -1,6 +1,6 @@
 <!--INTRODUCTION-->
 
-<h1 align="center">Code-Nect</h1>
+# Code-Nect
 Code-Nect is a website created for developers located in Ireland that are looking to interact with others who are interested in the world of software development. Code-Nect are looking to connect developers of all skills levels to grow a large community of Irish developers.
 
 Code-Nect host meetups and hackathons that allow developers to not only socialise, but to also work together in teams to create fun and interesting projects.
@@ -9,7 +9,7 @@ Users of the website will be able to find all the information about Code-Nect by
 
 ---
 
-<h2 align="center">User Experience</h2>
+## User Experience (UX)
 
 ---
 
@@ -28,7 +28,7 @@ Users of the website will be able to find all the information about Code-Nect by
 
 <!--FEATURES-->
 
-<h2 align="center">Features</h2>
+## Features
 
 ---
 

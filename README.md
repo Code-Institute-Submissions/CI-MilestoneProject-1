@@ -57,7 +57,13 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
     - As a user, I wan't to know if the organization host any in person events.
 
-  
+  - Site Owner Goals
+
+    - As a site owner I want users to understand what we do and why we do it.
+
+    - As a site owner I want users to explore and join the Code-Nect community.
+
+    - As a site owner I want users be excited with what they see on the site and how it benefits them.
 
 <!-- WIREFRAMES -->
 

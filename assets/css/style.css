@@ -38,8 +38,7 @@ body {
 
 /* Checkbox tutorial */
 #nav_checkbox {
-    display: none
-        /* Hides checkbox */
+    display: none; /* Hides checkbox */
 }
 
 .nav-menu {
@@ -50,8 +49,7 @@ body {
 
 .nav-menu li {
     list-style: none;
-    display: none;
-    /* Used to hide menu when checkbox is not checked */
+    display: none; /* Used to hide menu when checkbox is not checked */
     padding: 5px 0;
     font-size: 1.2rem;
 }
@@ -73,8 +71,7 @@ body {
 }
 
 #nav_checkbox:checked~ul.nav-menu li {
-    display: block;
-    /* Makes list items appear when checkbox is checked*/
+    display: block; /* Makes list items appear when checkbox is checked*/
 }
 
 

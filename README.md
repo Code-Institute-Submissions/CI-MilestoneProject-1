@@ -71,9 +71,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The Oswald font is the main font used throughout the site with Sans Serif as a fallback font. Oswald gives the site a professional feel to it and complements the Lato font used on selected pages.
 
+
 ## Features
 
 ---
+
 
 - ### Navigation Bar
 
@@ -85,6 +87,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   [![Navbar](readme-files/navbar.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+
 - ### Hero 
 
   - The hero displays a welcome message for new users visiting the site. The header continues using the same font color that is used within the navbar above.
@@ -94,6 +97,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
 
   [![Hero](readme-files/hero.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 
 - ### Services 
 
@@ -109,6 +113,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   [![Hero](readme-files/services.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+
 - ### Footer
 
   - The footer provides the user with links to Facebook, Github and Instagram.
@@ -116,6 +121,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - The footer has a green border with a grey background to add to the tech theme of the site.
 
   [![Footer](readme-files/footer.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 
 - ### About
 
@@ -127,6 +133,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   [![Team](readme-files/team.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+
 - ### Events
 
   - The events page showcases some upcoming events being hosted by Code-Nect.
@@ -134,6 +141,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - Each event has an image with a date layered on top, all of the images are used to relate to their respected event. Font awesome icons are used for the time, location, and speaker for each event.
 
   [![Event](readme-files/event.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 
 - ### Contact
 
@@ -148,6 +156,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - If the user chooses to fill out the contact form and does so correctly, the will be directed to a new page to thank them for contacting Code-Nect.
 
 [![Form-response](readme-files/form-response.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 
 - ### Technologies Used
 
@@ -210,3 +219,5 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - Pexels and Unspalsh is used to get images for the site.
   - Am I Responsive is used to check responsiveness on different devices.
+
+

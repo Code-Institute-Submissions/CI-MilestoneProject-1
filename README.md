@@ -206,4 +206,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 <!--BUGS-->
 
 
-<!--CREDITS-->
+- ### Credits
+
+  - Media
+    - Pexels and Unspalsh is used to get images for the site.
+    - Am I Responsive is used to check responsiveness on different devices.

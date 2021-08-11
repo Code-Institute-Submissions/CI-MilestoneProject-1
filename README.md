@@ -65,8 +65,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - [![Palette](readme-files/palette.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+  - Typography
 
-<!-- TYPOGRAPHY -->
+  ---
+
+  - The Oswald font is the main font used throughout the site with Sans Serif as a fallback font. Oswald gives the site a professional feel to it and complements the Lato font used on selected pages.
 
 
 <!--FEATURES-->

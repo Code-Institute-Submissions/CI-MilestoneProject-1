@@ -105,7 +105,13 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   [![Footer](readme-files/footer.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### About
-  - The about page is where users will go if they would like to learn more about Code-Nect. Users will find where Code-Nect is based in Ireland and the team behind the organization.
+  - The about page is where users will go if they would like to learn more about Code-Nect.
+
+  [![About](readme-files/about.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
+  - Users will find where Code-Nect is based in Ireland and the team behind the organization.
+
+  [![Team](readme-files/team.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 <!-- TECHNOLOGIES -->
 

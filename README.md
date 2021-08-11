@@ -119,6 +119,17 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   [![Event](readme-files/event.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+- ### Contact
+  - The contact page gives the user the choice to provide their details if they wish to get in touch with Code-Nect.
+  - The user must fill in all input fields in the contact form or they will be presented with an alert message notifying them to do so.
+  - Beside the contact form are contact details for Code-Nect. A location, number and email are all provided as another way to contact Code-Nect directly.
+
+[![Contact](readme-files/contact.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
+  - If the user chooses to fill out the contact form and does so correctly, the will be directed to a new page to thank them for contacting Code-Nect.
+
+[![Form-response](readme-files/form-response.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 <!-- TECHNOLOGIES -->
 
 

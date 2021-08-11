@@ -49,13 +49,13 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - User Goals
 
-    - As a user, I wan't a clear understanding of the sites main purpose.
+    - As a user, I want a clear understanding of the sites main purpose.
 
-    - As a user, I wan't to be able to navigate to other sections and pages of the site to find more information about the organization.
+    - As a user, I want to be able to navigate to other sections and pages of the site to find more information about the organization.
 
-    - As a user, I wan't to be able to contact Code-Nect directly by finding their social media links or by sign-up form.
+    - As a user, I want to be able to contact Code-Nect directly by finding their social media links or by sign-up form.
 
-    - As a user, I wan't to know if the organization host any in person events.
+    - As a user, I want to know if the organization host any in person events.
 
   - Site Owner Goals
 
@@ -228,7 +228,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - Lighthouse
 
-    [![Lighthouse](readme-files/lighthouse.png)
+    ![Lighthouse](readme-files/lighthouse.png)
 
 
 - ### Bugs

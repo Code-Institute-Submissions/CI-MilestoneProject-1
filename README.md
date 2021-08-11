@@ -55,7 +55,15 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 <!-- WIREFRAMES -->
 
 
-<!-- DESIGN -->
+- ### Design
+
+  - Colours
+
+  ---
+
+  - My choice of colours for the page originated from wanting to create a site with a tech feel to it. Each colour gives the page a unqiue blend of vibrant and dark colours in order to achieve that tech theme.
+
+  - [![Palette](readme-files/palette.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 
 <!-- TYPOGRAPHY -->
@@ -91,20 +99,26 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The services section displays what users can expect if they decide that they want to be involved with Cod-Nect.
 
-    - Collaborate: By getting involved with Code-Nect, it allows for developers to collaborate with one another to share ideas and build projects. 
+    - Collaborate: By getting involved with Code-Nect, it allows for developers to collaborate with one another to share ideas and build projects.
+
     - Portfolio Review: Code-Nect offers developers a chance to receive feedback on their portfolio site and personal projects, this allows developers to grow and learn with the feedback that they receive.
+
     - Socialize: Code-Nect host hackathons and meetups to give developers around Ireland an opportunity to socialize and get to know everyone personally.
+
   - Illustrations are used to represent each service, the bright green colour gives the site a tech design.
 
   [![Hero](readme-files/services.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### Footer
+
   - The footer provides the user with links to Facebook, Github and Instagram.
+
   - The footer has a green border with a grey background to add to the tech theme of the site.
 
   [![Footer](readme-files/footer.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### About
+
   - The about page is where users will go if they would like to learn more about Code-Nect.
 
   [![About](readme-files/about.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
@@ -114,14 +128,19 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   [![Team](readme-files/team.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### Events
+
   - The events page showcases some upcoming events being hosted by Code-Nect.
+
   - Each event has an image with a date layered on top, all of the images are used to relate to their respected event. Font awesome icons are used for the time, location, and speaker for each event.
 
   [![Event](readme-files/event.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
 - ### Contact
+
   - The contact page gives the user the choice to provide their details if they wish to get in touch with Code-Nect.
+
   - The user must fill in all input fields in the contact form or they will be presented with an alert message notifying them to do so.
+
   - Beside the contact form are contact details for Code-Nect. A location, number and email are all provided as another way to contact Code-Nect directly.
 
 [![Contact](readme-files/contact.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)

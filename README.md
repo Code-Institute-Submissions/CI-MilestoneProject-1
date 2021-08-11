@@ -195,7 +195,15 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     6. Click the generated link to the live site.
 
 
-<!--TESTING-->
+- ### Testing
+
+  - HTML
+    - No errors were returned when passing through W3C HTML validator.
+    - W3C (https://validator.w3.org/nu/#textarea)
+
+  CSS
+    - No errors were returned when passing through W3C CSS validator.
+    - W3C (https://jigsaw.w3.org/css-validator/validator)
 
 
 <!--BUGS-->

@@ -100,7 +100,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
 - ### Footer
   - The footer provides the user with links to Facebook, Github and Instagram.
-  - The footer has a green border to add to the tech theme of the site.
+  - The footer has a green border with a grey background to add to the tech theme of the site.
 
   [![Footer](readme-files/footer.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
   

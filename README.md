@@ -16,8 +16,8 @@
     * [Github Pages](#Github-Pages)
 * [Testing](#Testing)
 * [Bugs](#Bugs)
+* [Media](#Media)
 * [Credits](#Credits)
-    * [Media](#Media)
 ---
 
 <!--INTRODUCTION-->

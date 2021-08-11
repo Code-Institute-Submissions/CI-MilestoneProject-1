@@ -221,3 +221,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - Am I Responsive is used to check responsiveness on different devices.
 
 
+- ### Credit
+
+  - YouTube video that assisted with the creation of hamburger menu that uses a css checkbox trick. (https://www.youtube.com/watch?v=uugicVDUzMA)
+  - The slack community provided me with feedback on my project which helped me through the development of the site.
+  - I would like to thank my mentor Cans who has provided me with invaluable knowledge of best practices and feedback for this project.

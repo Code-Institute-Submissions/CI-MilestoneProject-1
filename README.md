@@ -103,7 +103,9 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - The footer has a green border with a grey background to add to the tech theme of the site.
 
   [![Footer](readme-files/footer.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
-  
+
+- ### About
+  - The about page is where users will go if they would like to learn more about Code-Nect. Users will find where Code-Nect is based in Ireland and the team behind the organization.
 
 <!-- TECHNOLOGIES -->
 

@@ -230,7 +230,10 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
     [![Lighthouse](readme-files/lighthouse.png)
 
-<!--BUGS-->
+
+- ### Bugs
+
+  - The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
 
 
 - ### Media

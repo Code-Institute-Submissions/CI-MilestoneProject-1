@@ -152,8 +152,30 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
 [![Form-response](readme-files/form-response.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
-<!-- TECHNOLOGIES -->
+- ### Technologies Used
 
+  - Languages Used:
+
+    - HTML
+
+    - CSS
+
+  - Frameworks, Libraries & Programs Used
+
+    1. Google Fonts:
+        - Google fonts were used to import both the Oswald and Lato fonts that are used on the site.
+    
+    2. Git:
+        - Git was used for version control to commit and push code to Git and GitHub.
+
+    3. GitHub:
+        - GitHub was used to store the project code.
+
+    4. Balsamiq:
+        - Balsamiq was used to create the initial designs for the pages on the site.
+
+    5. Font Awesome: 
+        - Font Awesome was used to add icons to add to the design and UX of the site.
 
 <!-- DEPLOYMENT -->
 

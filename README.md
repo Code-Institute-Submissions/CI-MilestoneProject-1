@@ -94,7 +94,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     - Collaborate: By getting involved with Code-Nect, it allows for developers to collaborate with one another to share ideas and build projects. 
     - Portfolio Review: Code-Nect offers developers a chance to receive feedback on their portfolio site and personal projects, this allows developers to grow and learn with the feedback that they receive.
     - Socialize: Code-Nect host hackathons and meetups to give developers around Ireland an opportunity to socialize and get to know everyone personally.
-  - Illustrations are used to represent each service, using the same color palette that is being used throughout the site.
+  - Illustrations are used to represent each service, the bright green colour gives the site a tech design.
 
   [![Hero](readme-files/services.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 

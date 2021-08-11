@@ -113,6 +113,12 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   [![Team](readme-files/team.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
 
+- ### Events
+  - The events page showcases some upcoming events being hosted by Code-Nect.
+  - Each event has an image with a date layered on top, all of the images are used to relate to their respected event. Font awesome icons are used for the time, location, and speaker for each event.
+
+  [![Event](readme-files/event.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+
 <!-- TECHNOLOGIES -->
 
 

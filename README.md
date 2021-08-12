@@ -227,7 +227,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     - W3C (https://jigsaw.w3.org/css-validator/validator)
 
   - Lighthouse
-
+    - Lighthouse was used to test the site performance, accessibility, best practices and SEO. 
     ![Lighthouse](readme-files/lighthouse.png)
 
 

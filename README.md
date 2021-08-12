@@ -230,6 +230,14 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     - Lighthouse was used to test the site performance, accessibility, best practices and SEO. 
     ![Lighthouse](readme-files/lighthouse.png)
 
+  - Wave 
+    - The error that reoccurs on all of the pages is due to the empty label used for the navbar checkbox method.
+    - The hidden aria labels are due to font awesome icons, to combat this I added aria labels to the anchor tags.
+    ![Wave-home](readme-files/wave-home.png)
+    ![Wave-about](readme-files/wave-about.png)
+    ![Wave-home](readme-files/wave-events.png)
+    ![Wave-home](readme-files/wave-contact.png)
+
 
 - ### Bugs
 

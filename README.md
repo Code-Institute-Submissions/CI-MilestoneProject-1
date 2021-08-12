@@ -67,7 +67,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
 
 - ### Wireframes
-  
+  - [Wireframes](readme-files/code-nect-wireframes.pdf)
 
 
 - ### Design
@@ -78,7 +78,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - My choice of colours for the page originated from wanting to create a site with a tech feel to it. Each colour gives the page a unqiue blend of vibrant and dark colours in order to achieve that tech theme.
 
-  - [![Palette](readme-files/palette.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  - ![Palette](readme-files/palette.png)
 
   - Typography
 
@@ -100,7 +100,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
 
-  [![Navbar](readme-files/navbar.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Navbar](readme-files/navbar.png)
 
 
 - ### Hero 
@@ -111,7 +111,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
 
-  [![Hero](readme-files/hero.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Hero](readme-files/hero.png)
 
 
 - ### Services 
@@ -126,7 +126,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - Illustrations are used to represent each service, the bright green colour gives the site a tech design.
 
-  [![Hero](readme-files/services.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Hero](readme-files/services.png)
 
 
 - ### Footer
@@ -135,18 +135,18 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The footer has a green border with a grey background to add to the tech theme of the site.
 
-  [![Footer](readme-files/footer.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Footer](readme-files/footer.png)
 
 
 - ### About
 
   - The about page is where users will go if they would like to learn more about Code-Nect.
 
-  [![About](readme-files/about.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![About](readme-files/about.png)
 
   - Users will find where Code-Nect is based in Ireland and the team behind the organization.
 
-  [![Team](readme-files/team.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Team](readme-files/team.png)
 
 
 - ### Events
@@ -155,7 +155,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - Each event has an image with a date layered on top, all of the images are used to relate to their respected event. Font awesome icons are used for the time, location, and speaker for each event.
 
-  [![Event](readme-files/event.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Event](readme-files/event.png)
 
 
 - ### Contact
@@ -166,11 +166,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - Beside the contact form are contact details for Code-Nect. A location, number and email are all provided as another way to contact Code-Nect directly.
 
-[![Contact](readme-files/contact.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Contact](readme-files/contact.png)
 
   - If the user chooses to fill out the contact form and does so correctly, the will be directed to a new page to thank them for contacting Code-Nect.
 
-[![Form-response](readme-files/form-response.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+  ![Form-response](readme-files/form-response.png)
 
 
 - ### Technologies Used

@@ -65,7 +65,9 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
     - As a site owner I want users be excited with what they see on the site and how it benefits them.
 
-<!-- WIREFRAMES -->
+
+- ### Wireframes
+  
 
 
 - ### Design

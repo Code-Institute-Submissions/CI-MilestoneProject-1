@@ -33,7 +33,7 @@ Code-Nect host meetups and hackathons that allow developers to not only socialis
 
 Users of the website will be able to find all the information about Code-Nect by visiting the About, Events, and Sign up pages provided on the site.
 
-[![Responsive](readme-files/responsive.png)](https://jack112-create.github.io/CI-MilestoneProject-1/)
+![Responsive](readme-files/responsive.png)
 
 View the live project [here](https://jack112-create.github.io/CI-MilestoneProject-1/)
 

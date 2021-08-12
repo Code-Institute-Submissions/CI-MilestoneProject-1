@@ -24,7 +24,6 @@
 * [Credits](#Credits)
 ---
 
-<!--INTRODUCTION-->
 
 # Code-Nect
 Code-Nect is a website created for developers located in Ireland that are looking to interact with others who are interested in the world of software development. Code-Nect are looking to connect developers of all skills levels to grow a large community of Irish developers.
@@ -43,7 +42,6 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
 ---
 
-<!--USER STORIES-->
 
 - ### User Stories
 

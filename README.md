@@ -248,9 +248,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - Pexels and Unspalsh is used to get images for the site.
 
-  - Illustrations were generated from (https://undraw.co/illustrations)
+  - Illustrations are generated from (https://undraw.co/illustrations)
 
   - Am I Responsive is used to check responsiveness on different devices.
+
+  - Favicon.io is used to create my Code-Nect favicon.
 
 
 - ### Credit

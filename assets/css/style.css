@@ -247,8 +247,30 @@ footer h3 {
     margin-bottom: 3rem;
 }
 
-.event img {
+.event-img {
     width: 100%;
+    height: 50vh;
+}
+
+#meetup-img {
+    background-image: url('../images/event-img.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hackathon-img {
+    background-image: url('../images/hackernoon.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#coming-soon-img {
+    background-image: url('../images/question.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .event-banner {
@@ -536,7 +558,7 @@ footer h3 {
         display: flex;
     }
 
-    .event img {
+    .event-img {
         width: 30%;
     }
 

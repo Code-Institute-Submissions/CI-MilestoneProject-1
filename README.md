@@ -43,9 +43,9 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 ---
 
 
-- ### User Stories
+## User Stories
 
-  - User Goals
+  ### User Goals
 
     - As a user, I want a clear understanding of the sites main purpose.
 
@@ -55,7 +55,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
     - As a user, I want to know if the organization host any in person events.
 
-  - Site Owner Goals
+  ### Site Owner Goals
 
     - As a site owner I want users to understand what we do and why we do it.
 
@@ -63,12 +63,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
     - As a site owner I want users be excited with what they see on the site and how it benefits them.
 
-
-- ### Wireframes
+## Wireframes
   - [Wireframes](readme-files/code-nect-wireframes.pdf)
 
 
-- ### Design
+## Design
 
   - Colours
 
@@ -90,7 +89,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 ---
 
 
-- ### Navigation Bar
+ ### Navigation Bar
 
   - Navigation is featured on all 4 pages of the Code-Nect site. The navbar is built mobile first making it fully responsive by displaying a hamburger icon on small screen sizes and full navigation links on desktop.
 
@@ -101,7 +100,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Navbar](readme-files/navbar.png)
 
 
-- ### Hero 
+ ### Hero 
 
   - The hero displays a welcome message for new users visiting the site. The header continues using the same font color that is used within the navbar above.
 
@@ -112,7 +111,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Hero](readme-files/hero.png)
 
 
-- ### Services 
+  ### Services 
 
   - The services section displays what users can expect if they decide that they want to be involved with Cod-Nect.
 
@@ -127,7 +126,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Hero](readme-files/services.png)
 
 
-- ### Footer
+ ### Footer
 
   - The footer provides the user with links to Facebook, Github and Instagram.
 
@@ -136,7 +135,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Footer](readme-files/footer.png)
 
 
-- ### About
+ ### About
 
   - The about page is where users will go if they would like to learn more about Code-Nect.
 
@@ -147,7 +146,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Team](readme-files/team.png)
 
 
-- ### Events
+ ### Events
 
   - The events page showcases some upcoming events being hosted by Code-Nect.
 
@@ -156,7 +155,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Event](readme-files/event.png)
 
 
-- ### Contact
+ ### Contact
 
   - The contact page gives the user the choice to provide their details if they wish to get in touch with Code-Nect.
 
@@ -171,15 +170,15 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Form-response](readme-files/form-response.png)
 
 
-- ### Technologies Used
+## Technologies Used
 
-  - Languages Used:
+  ### Languages Used:
 
     - HTML
 
     - CSS
 
-  - Frameworks, Libraries & Programs Used
+  ### Frameworks, Libraries & Programs Used
 
     1. Google Fonts:
         - Google fonts were used to import both the Oswald and Lato fonts that are used on the site.
@@ -197,9 +196,9 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
         - Font Awesome was used to add icons to add to the design and UX of the site.
 
 
-- ### Deployment
+## Deployment
 
-  - GitHub Pages:
+  ### GitHub Pages:
 
     1. Log into GitHub.
 
@@ -214,23 +213,23 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     6. Click the generated link to the live site.
 
 
-- ### Testing
+## Testing
 
-  - HTML
+  ### HTML
     - No errors were returned when passing through W3C HTML validator.
 
     - W3C (https://validator.w3.org/nu/#textarea)
 
-  - CSS
+  ### CSS
     - No errors were returned when passing through W3C CSS validator.
 
     - W3C (https://jigsaw.w3.org/css-validator/validator)
 
-  - Lighthouse
+  ### Lighthouse
     - Lighthouse was used to test the site performance, accessibility, best practices and SEO. 
     ![Lighthouse](readme-files/lighthouse.png)
 
-  - Wave 
+  ### Wave 
     - The error that reoccurs on all of the pages is due to the empty label used for the navbar checkbox method.
     - The hidden aria labels are due to font awesome icons, to combat this I added aria labels to the anchor tags.
     ![Wave-home](readme-files/wave-home.png)
@@ -238,12 +237,12 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
     ![Wave-home](readme-files/wave-events.png)
     ![Wave-home](readme-files/wave-contact.png)
 
-  - Manual testing
+  ### Manual testing
     - Manually tested responsiveness by viewing the project on a mobile device.
     - Each link was tested on every page to ensure that they work as expected.
 
 
-- ### Bugs
+## Bugs
 
   - The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
 
@@ -251,7 +250,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![safari-bug](readme-files/safari-bug.png)
 
 
-- ### Media
+## Media
 
   - Pexels and Unspalsh is used to get images for the site.
 
@@ -262,7 +261,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   - Favicon.io is used to create my Code-Nect favicon.
 
 
-- ### Credit
+## Credit
 
   - YouTube video that assisted with the creation of hamburger menu that uses a css checkbox trick. (https://www.youtube.com/watch?v=uugicVDUzMA)
 

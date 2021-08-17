@@ -250,21 +250,22 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 ![safari-bug](readme-files/safari-bug.png)
 
 
-## Media
-
-- Pexels and Unspalsh is used to get images for the site.
-
-- Illustrations are generated from (https://undraw.co/illustrations)
-
-- Am I Responsive is used to check responsiveness on different devices.
-
-- Favicon.io is used to create my Code-Nect favicon.
-
-
 ## Credit
 
-- YouTube video that assisted with the creation of hamburger menu that uses a css checkbox trick. (https://www.youtube.com/watch?v=uugicVDUzMA)
+ ### Media
 
-- The slack community provided me with feedback on my project which helped me through the development of the site.
+ - Pexels and Unspalsh is used to get images for the site.
 
-- I would like to thank my mentor Cans who has provided me with invaluable knowledge of best practices and feedback for this project.
+ - Illustrations are generated from (https://undraw.co/illustrations)
+
+ - Am I Responsive is used to check responsiveness on different devices.
+
+ - Favicon.io is used to create my Code-Nect favicon.
+
+ - YouTube video that assisted with the creation of hamburger menu that uses a css checkbox trick. (https://www.youtube.com/watch?v=uugicVDUzMA)
+
+ ### Other
+ 
+ - The slack community provided me with feedback on my project which helped me through the development of the site.
+
+ - I would like to thank my mentor Cans who has provided me with invaluable knowledge of best practices and feedback for this project.

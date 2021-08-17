@@ -237,7 +237,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Wave-home](readme-files/wave-events.png)
   ![Wave-home](readme-files/wave-contact.png)
 
-  ### Manual testing
+## Manual testing
   - Manually tested responsiveness by viewing the project on a mobile device.
   - Each link was tested on every page to ensure that they work as expected.
 

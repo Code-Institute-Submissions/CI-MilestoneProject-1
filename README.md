@@ -238,16 +238,19 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
   ![Wave-home](readme-files/wave-contact.png)
 
 ## Manual testing
-  - Manually tested responsiveness by viewing the project on a mobile device.
-  - Each link was tested on every page to ensure that they work as expected.
+
+ - The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
+
+ - Manually tested responsiveness by viewing the project on a mobile device such as Iphone SE. Responsiveness was also tested by using [Am I Responsive](http://ami.responsivedesign.is/#).
+  
+ - Each link was tested on every page to ensure that they work as expected.
+
+ ### Browser testing
+ - When testing the site on Safari there was a bug with the events page. The images were not being displayed correctly as each image was a different size. To fix this I removed the img tags in the html file and created divs and set the images as backgrounds. I then added a style rule to set the height of the divs to fix the bug.
+ ![safari-bug](readme-files/safari-bug.png)
 
 
 ## Bugs
-
-- The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
-
-- When testing the site on Safari there was a bug with the events page. The images were not being displayed correctly as each image was a different size. To fix this I removed the img tags in the html file and created divs and set the images as backgrounds. I then added a style rule to set the height of the divs to fix the bug.
-![safari-bug](readme-files/safari-bug.png)
 
 
 ## Credit

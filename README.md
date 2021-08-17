@@ -241,9 +241,25 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
 
- - Manually tested responsiveness by viewing the project on a mobile device such as Iphone SE. Responsiveness was also tested by using [Am I Responsive](http://ami.responsivedesign.is/#).
+ ### Responsiveness testing
+
+ - Manually tested responsiveness by viewing the project on a mobile device such as Iphone SE. Responsiveness was also tested by using [Am I Responsive](http://ami.responsivedesign.is/#) and by using dev tools in the browser to change the screen width to ensure the site layout was working as expected.
   
- - Each link was tested on every page to ensure that they work as expected.
+ ### Navigation testing
+
+ - Each navigation link was tested on every page by visiting the pages and clicking each navigation link to ensure the user is brought to the correct page.
+
+ - The hamburger icon displayed on mobile devices was tested by clicking the icon to view all navigation links in a column.
+
+ ### External links testing
+
+ - External links in the footer were tested by clicking on them to ensure the user is brought to the correct page in a new tab.
+
+ ### Form testing
+
+ - The required inputs in the contact form were tested by trying to submit the form without providing an input value for each field.
+
+ - The form action was tested by linking the user to a thank you page when clicking the submit button.
 
  ### Browser testing
 

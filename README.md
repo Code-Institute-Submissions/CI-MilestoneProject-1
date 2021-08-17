@@ -254,7 +254,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
  ![safari-bug-fix](readme-files/safari-bug-fix.png)
 
 
-## Bugs
+## Known Bugs
+
+  - When loading the page for the first time the text flickers before loading the correct fonts that are imported from Google fonts.
+
+  - 
 
 
 ## Credit

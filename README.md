@@ -246,8 +246,12 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
  - Each link was tested on every page to ensure that they work as expected.
 
  ### Browser testing
+
  - When testing the site on Safari there was a bug with the events page. The images were not being displayed correctly as each image was a different size. To fix this I removed the img tags in the html file and created divs and set the images as backgrounds. I then added a style rule to set the height of the divs to fix the bug.
  ![safari-bug](readme-files/safari-bug.png)
+
+ - Image below is fixed safari bug.
+ ![safari-bug-fix](readme-files/safari-bug-fix.png)
 
 
 ## Bugs

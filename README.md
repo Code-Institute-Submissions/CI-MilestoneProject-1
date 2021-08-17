@@ -239,8 +239,6 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
 ## Manual testing
 
- - The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
-
  ### Responsiveness testing
 
  - Manually tested responsiveness by viewing the project on a mobile device such as Iphone SE. Responsiveness was also tested by using [Am I Responsive](http://ami.responsivedesign.is/#) and by using dev tools in the browser to change the screen width to ensure the site layout was working as expected.
@@ -273,6 +271,11 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 ## Known Bugs
 
 - When loading the page for the first time the text flickers before loading the correct fonts that are imported from Google fonts.
+
+
+## Fixed Bugs
+
+- The footer would not position itself to the bottom of the screen when the width had reached to a desktop size viewport, this was fixed by adding an "active" class with certain style rules to the body of the pages that had this issue.
 
 
 ## Credit

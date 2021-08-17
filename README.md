@@ -97,7 +97,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
 
-![Navbar](readme-files/navbar.png)
+ ![Navbar](readme-files/navbar.png)
 
 
  ### Hero 

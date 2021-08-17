@@ -172,62 +172,62 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
 ## Technologies Used
 
-  ### Languages Used:
+ ### Languages Used:
 
-  - HTML
+ - HTML
 
-  - CSS
+ - CSS
 
-  ### Frameworks, Libraries & Programs Used:
+ ### Frameworks, Libraries & Programs Used:
 
-  1. Google Fonts:
-      - Google fonts were used to import both the Oswald and Lato fonts that are used on the site.
+ 1. Google Fonts:
+    - Google fonts were used to import both the Oswald and Lato fonts that are used on the site.
     
-  2. Git:
-      - Git was used for version control to commit and push code to Git and GitHub.
+ 2. Git:
+    - Git was used for version control to commit and push code to Git and GitHub.
 
-  3. GitHub:
-      - GitHub was used to store the project code.
+ 3. GitHub:
+    - GitHub was used to store the project code.
 
-  4. Balsamiq:
-      - Balsamiq was used to create the initial designs for the pages on the site.
+ 4. Balsamiq:
+    - Balsamiq was used to create the initial designs for the pages on the site.
 
   5. Font Awesome: 
-      - Font Awesome was used to add icons to add to the design and UX of the site.
+    - Font Awesome was used to add icons to add to the design and UX of the site.
 
 
 ## Deployment
 
-  ### GitHub Pages:
+ ### GitHub Pages:
 
-  1. Log into GitHub.
+ 1. Log into GitHub.
 
-  2. Select the repository for the Code-Nect project. (https://github.com/Jack112-create/CI-MilestoneProject-1)
+ 2. Select the repository for the Code-Nect project. (https://github.com/Jack112-create/CI-MilestoneProject-1)
 
-  3. Navigate to and click on 'Settings'.
+ 3. Navigate to and click on 'Settings'.
 
-  4. When the page has redirected, navigate to 'GitHub Pages' and proceed to click on the link.
+ 4. When the page has redirected, navigate to 'GitHub Pages' and proceed to click on the link.
 
-  5. Select branch to 'Main' from sources dropdown.
+ 5. Select branch to 'Main' from sources dropdown.
 
-  6. Click the generated link to the live site.
+ 6. Click the generated link to the live site.
 
 
 ## Testing
 
-  ### HTML
-  - No errors were returned when passing through W3C HTML validator.
+ ### HTML
+ - No errors were returned when passing through W3C HTML validator.
 
-  - W3C (https://validator.w3.org/nu/#textarea)
+ - W3C (https://validator.w3.org/nu/#textarea)
 
-  ### CSS
-  - No errors were returned when passing through W3C CSS validator.
+ ### CSS
+ - No errors were returned when passing through W3C CSS validator.
 
 - W3C (https://jigsaw.w3.org/css-validator/validator)
 
-  ### Lighthouse
-  - Lighthouse was used to test the site performance, accessibility, best practices and SEO. 
-  ![Lighthouse](readme-files/lighthouse.png)
+ ### Lighthouse
+ - Lighthouse was used to test the site performance, accessibility, best practices and SEO. 
+ ![Lighthouse](readme-files/lighthouse.png)
 
   ### Wave 
   - The error that reoccurs on all of the pages is due to the empty label used for the navbar checkbox method.

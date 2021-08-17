@@ -51,7 +51,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - As a user, I want to be able to navigate to other sections and pages of the site to find more information about the organization.
 
-  - As a user, I want to be able to contact Code-Nect directly by finding their social media links or by sign-up form.
+  - As a user, I want to be able to contact Code-Nect directly by finding their social media links or through a contact form.
 
   - As a user, I want to know if the organization host any in person events.
 

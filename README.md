@@ -192,7 +192,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
  4. Balsamiq:
     - Balsamiq was used to create the initial designs for the pages on the site.
 
-  5. Font Awesome: 
+ 5. Font Awesome: 
     - Font Awesome was used to add icons to add to the design and UX of the site.
 
 

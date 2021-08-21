@@ -1,27 +1,27 @@
 ## Contents
-* [Introduction](#Code-Nect)
-* [UX](#UX)
-    * [User Stories](#User-Stories)
-        * [User Goals](#User-Goals)
-        * [Site Owner Goals](#Site-Owner-Goals)
-* [Wireframes](#Wireframes)
-* [Design](#Design)
-* [Features](#Features)
-    * [Navbar](#Navbar)
-    * [Hero](#Hero)
-    * [Services](#Services)
-    * [Footer](#Footer)
-    * [About](#About)
-    * [Events](#Events)
-    * [Contact](#Contact)
-* [Technologies Used](#Technologies-Used)
-    * [Languages Used](#Languages-Used)
-* [Deployment](#Deployment)
-    * [Github Pages](#Github-Pages)
-* [Testing](#Testing)
-* [Bugs](#Bugs)
-* [Media](#Media)
-* [Credits](#Credits)
+* Introduction
+* UX
+  * User Stories
+    * User Goals
+    * Site Owner Goals
+* Wireframes
+* Design
+* Features
+    * Navbar
+    * Hero
+    * Services
+    * Footer
+    * About
+    * Events
+    * Contact
+* Technologies Used
+    * Languages Used
+* Deployment
+    * Github Pages
+* Testing
+* Bugs
+* Credits
+  * Media
 ---
 
 

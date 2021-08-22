@@ -139,6 +139,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - The footer has a green border with a grey background to add to the tech theme of the site.
 
+ - **This feature satisfies the user story of finding the sites social media links as they are clearly displayed within the footer.**
+
  ![Footer](readme-files/footer.png)
 
 

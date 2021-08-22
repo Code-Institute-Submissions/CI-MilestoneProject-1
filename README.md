@@ -161,6 +161,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - Each event has an image with a date layered on top, all of the images are used to relate to their respected event. Font awesome icons are used for the time, location, and speaker for each event.
 
+ - **This feature satisfies the user story of finding if the organization hosts events**.
+
  ![Event](readme-files/event.png)
 
 

@@ -116,7 +116,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  ### Services 
 
- - The services section displays what users can expect if they decide that they want to be involved with Cod-Nect.
+ - The services section displays what users can expect if they decide that they want to be involved with Code-Nect.
 
   - Collaborate: By getting involved with Code-Nect, it allows for developers to collaborate with one another to share ideas and build projects.
 

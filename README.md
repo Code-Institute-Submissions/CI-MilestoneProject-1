@@ -113,6 +113,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The hero also provides a small paragraph that gives the user insight into what the site is about.
 
+  - **This feature satisfies the user goal of immediately being able to understand the sites main purpose**
+
   ![Hero](readme-files/hero.png)
 
 

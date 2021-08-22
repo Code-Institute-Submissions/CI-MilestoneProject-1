@@ -178,6 +178,8 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - If the user chooses to fill out the contact form and does so correctly, the will be directed to a new page to thank them for contacting Code-Nect.
 
+ - **This feature satisfies the user story of contacting the organization by providing the user with a contact form**
+
  ![Form-response](readme-files/form-response.png)
 
 

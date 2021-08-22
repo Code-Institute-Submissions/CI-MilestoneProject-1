@@ -91,13 +91,15 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  ### Navigation Bar
 
- - Navigation is featured on all 4 pages of the Code-Nect site. The navbar is built mobile first making it fully responsive by displaying a hamburger icon on small screen sizes and full navigation links on desktop. This feature satisfies the navigation user goal as the user is able to navigate through other pages easily on devices with different screen sizes.
+ - Navigation is featured on all 4 pages of the Code-Nect site. The navbar is built mobile first making it fully responsive by displaying a hamburger icon on small screen sizes and full navigation links on desktop.
 
  ![Navbar-mobile](readme-files/navbar-mobile.png)
 
  - The Code-Nect logo is displayed to the left, inside of the navigation bar while links to other pages such as Home, About, Events and Sign Up which are displayed to the right.
 
  - The navigation feature makes it easier for users to find different sections of the website, while also providing an idea of the sites content.
+
+ - **This feature satisfies the navigation user goal as the user is able to navigate through other pages easily on devices with different screen sizes.**
 
  ![Navbar](readme-files/navbar.png)
  

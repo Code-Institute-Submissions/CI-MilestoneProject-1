@@ -161,7 +161,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - Each event has an image with a date layered on top, all of the images are used to relate to their respected event. Font awesome icons are used for the time, location, and speaker for each event.
 
- - **This feature satisfies the user story of finding if the organization hosts events**.
+ - **This feature satisfies the user story of finding if the organization hosts events.**.
 
  ![Event](readme-files/event.png)
 
@@ -178,7 +178,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
  - If the user chooses to fill out the contact form and does so correctly, the will be directed to a new page to thank them for contacting Code-Nect.
 
- - **This feature satisfies the user story of contacting the organization by providing the user with a contact form**
+ - **This feature satisfies the user story of contacting the organization by providing the user with a contact form.**
 
  ![Form-response](readme-files/form-response.png)
 

@@ -109,7 +109,7 @@ View the live project [here](https://jack112-create.github.io/CI-MilestoneProjec
 
   - The hero uses a background image with a black transparent layer on top in order for the white text to be displayed without any contrast issues.
 
-  - The hero also provides a small paragrapgh that gives the user insight into what the site is about.
+  - The hero also provides a small paragraph that gives the user insight into what the site is about.
 
   ![Hero](readme-files/hero.png)
 
